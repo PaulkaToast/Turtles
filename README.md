@@ -22,5 +22,18 @@ Drawing all kinds of fractals like...
 ## Koch Snowflake Fractal
 ![Koch Snowflake Fractal](http://i.imgur.com/TaE9zDK.png)
 
+## Koch Curve (Type 1)
+![Koch Curve 1](http://i.imgur.com/iHwcVqs.png)
+
+## Koch Curve (Type 2)
+![Koch Curve 1](http://i.imgur.com/br642wX.png)
+
+## 32 Segment Curve
+![32SegCurve](http://i.imgur.com/zD3kkhn.png)
+
 ## Greek Cross Fractal
 ![Greek Cross Fractal](http://i.imgur.com/m3X2U3m.png)
+
+## Square Curve
+![Square Curve](http://i.imgur.com/vln8RKb.png)
+
