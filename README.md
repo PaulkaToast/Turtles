@@ -13,8 +13,14 @@ Drawing all kinds of fractals like...
 ## Gosper Curve
 ![Gosper Curve](http://i.imgur.com/97F8O0t.png)
 
-## Lévy C curve
-![Lévy C curve](http://i.imgur.com/oLPKnCk.png)
+## Lévy C Curve
+![Lévy C Curve](http://i.imgur.com/oLPKnCk.png)
 
-## Sierpiński arrowhead curve
+## Sierpiński Arrowhead Curve
 ![Sierpiński arrowhead curve](http://i.imgur.com/wwdwIWP.png)
+
+## Koch Snowflake Fractal
+![Koch Snowflake Fractal](http://i.imgur.com/TaE9zDK.png)
+
+## Greek Cross Fractal
+![Greek Cross Fractal](http://i.imgur.com/m3X2U3m.png)
