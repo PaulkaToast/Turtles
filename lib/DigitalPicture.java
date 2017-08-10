@@ -1,4 +1,4 @@
-package turtleClasses;
+package turtleClasses.lib;
 
 import java.awt.Image;
 import java.awt.image.BufferedImage;

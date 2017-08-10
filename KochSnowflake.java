@@ -1,6 +1,9 @@
 package turtleClasses;
 import java.awt.Color;
 
+import turtleClasses.lib.Turtle;
+import turtleClasses.lib.World;
+
 public class KochSnowflake {
 	public static Turtle t;
 	public static final int MAX = 4;

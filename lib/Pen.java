@@ -1,8 +1,11 @@
-package turtleClasses;
+package turtleClasses.lib;
 
 import java.awt.*;
 import java.awt.geom.*;
 import javax.swing.*;
+
+import turtleClasses.PathSegment;
+
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Iterator;

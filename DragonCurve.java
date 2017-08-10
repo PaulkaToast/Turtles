@@ -1,5 +1,7 @@
 package turtleClasses;
 
+import turtleClasses.lib.Turtle;
+import turtleClasses.lib.World;
 
 public class DragonCurve
 {

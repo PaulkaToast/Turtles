@@ -2,6 +2,9 @@ package turtleClasses;
 
 import java.awt.Color;
 
+import turtleClasses.lib.Turtle;
+import turtleClasses.lib.World;
+
 public class KochCurve2 {
 		public static Turtle kevin;
 		public static Turtle ammar;
