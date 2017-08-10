@@ -9,3 +9,6 @@ Drawing all kinds of fractals like...
 
 ## Fibonacci Word Fractal
 ![Fibonacci Word Fractal](http://i.imgur.com/lNmintz.png)
+
+## Gosper Curve
+![Gosper Curve](http://i.imgur.com/97F8O0t.png)
