@@ -15,3 +15,6 @@ Drawing all kinds of fractals like...
 
 ## Lévy C curve
 ![Lévy C curve](http://i.imgur.com/oLPKnCk.png)
+
+## Sierpiński arrowhead curve
+![Sierpiński arrowhead curve](http://i.imgur.com/wwdwIWP.png)
